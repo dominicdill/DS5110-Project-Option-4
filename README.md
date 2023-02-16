@@ -9,7 +9,7 @@
 
 * Stakeholder -- Mark Wagy, PhD, Senior Data Scientist at The Roux Instute
 * Story/Goal: We build machine learning models on a lot of datasets for various partners and industries. We would like t o be able to have an automated process that we can run our algorithms against ground truth datasets to check whether the y are biased or not. In this project we propose building such a tool.
-* Data: Law School Admission Dataset
+* Data: [Law School Admission Dataset](http://www.seaphe.org/databases.php)
 
 Other EIA project ideas that need to be fleshed out...
 
